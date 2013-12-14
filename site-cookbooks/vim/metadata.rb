@@ -1,6 +1,6 @@
 name             'vim'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'nise_nabe'
+maintainer_email 'nise.nabe@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures vim'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
