@@ -6,6 +6,7 @@
 	"description": "Common",
 	"chef_type": "role",
 	"run_list": [
-		"recipe[vim]"
+		"recipe[vim]",
+		"recipe[tmux]"
 	]
 }
