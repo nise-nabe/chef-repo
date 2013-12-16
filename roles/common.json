@@ -9,6 +9,7 @@
 		"recipe[git]",
 		"recipe[vim]",
 		"recipe[tmux]",
-		"recipe[mosh]"
+		"recipe[mosh]",
+		"recipe[zsh]"
 	]
 }
