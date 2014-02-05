@@ -14,7 +14,7 @@ bash "install_node" do
 	code <<-EOH
 		git clone https://github.com/joyent/node
 		cd node
-		git checkout v0.10.23
+		git checkout v0.10.25
 		./configure --prefix=$INSTALL_PATH
 		make
 		make install
